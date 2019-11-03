@@ -12,6 +12,6 @@ Mostly, Markdown is just regular text with a few non-alphabetic characters throw
 5. finally get you link from settings
 * for more information:[GitHub Pages](https://pages.github.com/)
 
-#Basic writing and formatting syntax:
+# Basic writing and formatting syntax:
 it is easy editing way where you can edit headings, make it bold,edit text, adding images and links.... etc.
 * for more information:[GitHub Markdown Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
