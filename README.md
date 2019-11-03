@@ -8,6 +8,13 @@ they can work hard and pay effort on themselves to develop thier skills and reac
 2. I must pay efort and remind my self : No pain , no gain.
 3. Looking for success peaple to inspired by them to reach what they did. 
 
-Done by: Suha Alhawamdeh
+
+
+
+
 ## Referense:
 -[LTUC lecture ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+### Done by: Suha Alhawamdeh
+
