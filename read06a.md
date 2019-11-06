@@ -1,6 +1,6 @@
 # HOW HTML, CSS, and JAVASCRIPT FIT TOGETHER:
 
-## How do I write a scrpt of a web page:
+## How do I write a script of a web page:
 
 * It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and
 CSS style sheets), but they have the . js extension.
