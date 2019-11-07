@@ -13,7 +13,11 @@ Each time the script runs, it might only use a subset of all the instructions.
 Computers approach tasks in a different way than humans, so your instructions must let the computer
 solve the task prggrammatically.
 
-Expressions and Operators:
+# Expressions and Operators:
 Expressions rely on things called operators; they allow programmers to
 create a single value from one or more values. 
 
+# Functions:
+Function let you group a series of statements together to perform a specific task
+* Declaring Function
+* Calling function
